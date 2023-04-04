@@ -11,14 +11,3 @@
 <a href="https://instagram.com/hafidz_hafidz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="afidz_hafidz" height="30" width="40" /></a>
 <a href="https://discord.gg/#Hafidz0001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="#hafidz" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="java" width="40" height="40"/> </a> <a href="https://https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.javascript.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="js" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="boostrap" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.postgresql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/540px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hafidz0098&show_icons=true&locale=en&layout=compact&margin_bottom=20&theme=dark" alt="hafidz" />
-</p>
-
-</p>
-  &nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=hafidz0098&show_icons=true&locale=en&theme=dark" alt="hafidz" />
-</p>
